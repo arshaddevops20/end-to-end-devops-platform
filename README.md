@@ -56,3 +56,17 @@ Terraform → CI/CD → Docker → Kubernetes → Monitoring
 ---
 
 ## Repository Structure
+## Project Repositories
+
+- 🏗 **Infrastructure as Code (Terraform)**  
+  https://github.com/arshaddevops20/IaC
+
+- 🔄 **CI/CD Pipelines**  
+  https://github.com/arshaddevops20/CI-CD
+
+- ☸ **Kubernetes Deployments**  
+  https://github.com/arshaddevops20/K8s
+
+- 📊 **Monitoring & Observability**  
+  https://github.com/arshaddevops20/Monitoring
+
