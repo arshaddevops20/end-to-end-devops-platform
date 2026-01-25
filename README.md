@@ -69,3 +69,18 @@ Terraform → CI/CD → Docker → Kubernetes → Monitoring
 - 📊 **Monitoring & Observability**  
   https://github.com/arshaddevops20/Monitoring
 
+  ---
+
+  ## Key DevOps Practices Implemented
+- Infrastructure as Code
+- CI/CD as Code
+- Automated deployments
+- Kubernetes scalability
+- Proactive monitoring and alerting
+- Production-ready workflows
+
+---
+
+## Outcome
+A modular, scalable, and production-grade DevOps platform designed using industry best practices.
+
