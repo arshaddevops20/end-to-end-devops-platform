@@ -1,3 +1,11 @@
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-brightgreen)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws)
+![Status](https://img.shields.io/badge/Status-Production--Ready-success)
+
+
 # End-to-End DevOps Platform  
 (IaC → CI/CD → Kubernetes → Monitoring)
 
