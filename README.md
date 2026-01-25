@@ -56,7 +56,6 @@ Terraform → CI/CD → Docker → Kubernetes → Monitoring
 ---
 
 ## Repository Structure
-## Project Repositories
 
 - 🏗 **Infrastructure as Code (Terraform)**  
   https://github.com/arshaddevops20/IaC
