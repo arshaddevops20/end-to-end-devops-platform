@@ -57,17 +57,30 @@ Terraform → CI/CD → Docker → Kubernetes → Monitoring
 
 ## Repository Structure
 
-- 🏗 **Infrastructure as Code (Terraform)**  
-  https://github.com/arshaddevops20/IaC
+This DevOps platform is organized into modular repositories, each representing a core stage of the DevOps lifecycle.
 
-- 🔄 **CI/CD Pipelines**  
-  https://github.com/arshaddevops20/CI-CD
+### 🏗 Infrastructure as Code (Terraform)
+Provisioning and managing cloud infrastructure using Terraform following IaC best practices.  
+🔗 https://github.com/arshaddevops20/IaC
 
-- ☸ **Kubernetes Deployments**  
-  https://github.com/arshaddevops20/K8s
+---
 
-- 📊 **Monitoring & Observability**  
-  https://github.com/arshaddevops20/Monitoring
+### 🔄 CI/CD Pipelines
+Automated CI/CD pipelines implemented using Jenkins and GitHub Actions for build, test, and deployment.  
+🔗 https://github.com/arshaddevops20/CI-CD
+
+---
+
+### ☸ Kubernetes Deployments
+Container orchestration and application deployment using Kubernetes manifests and best practices.  
+🔗 https://github.com/arshaddevops20/K8s
+
+---
+
+### 📊 Monitoring & Observability
+Infrastructure and application monitoring using modern observability tools such as Datadog, Prometheus, and Grafana.  
+🔗 https://github.com/arshaddevops20/Monitoring
+
 
   ---
 
