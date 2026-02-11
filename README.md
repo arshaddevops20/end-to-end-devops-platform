@@ -92,7 +92,7 @@ Infrastructure and application monitoring using modern observability tools such 
 - Proactive monitoring and alerting
 - Production-ready workflows
 
----
+----
 
 ## Outcome
 A modular, scalable, and production-grade DevOps platform designed using industry best practices.
